@@ -17,5 +17,5 @@ A simple Snake Game built using Python's `turtle` module. Eat the food, grow lon
 1. Make sure you have Python installed (version 3.6+ recommended).
 2. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/snake-game.git
+   git clone https://github.com/AryaBhat21/snake-game.git
    cd snake-game
